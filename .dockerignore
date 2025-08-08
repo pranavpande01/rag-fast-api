@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pkl
+*.model
+*.log
+*.csv
+*.ipynb
+.env
+.venv/
+.idea/
+.vscode/
+*.pdf
+*.txt
+.cache/
+.huggingface/
+.git/
