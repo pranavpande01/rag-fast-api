@@ -12,3 +12,4 @@ rank_bm25
 scikit-learn
 numpy
 pdfminer.six
+gunicorn
